@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocketDemo</string>
+    <string name="server">服务端</string>
+    <string name="client">客户端</string>
+    <string name="ip_address">ip地址:</string>
+    <string name="open_server">开启服务</string>
+    <string name="information">信息</string>
+    <string name="send">发送</string>
+    <string name="send_to_client">发送给客户端</string>
+    <string name="connect_ip_address">连接ip地址</string>
+    <string name="connect_server">连接服务</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">测试</string>
+</resources>
